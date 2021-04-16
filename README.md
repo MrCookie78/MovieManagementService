@@ -2,7 +2,7 @@
 
 ## Members
 ### Names
-* DUPUIS MicaÃ«l
+* DUPUIS Micaël
 * PINNA Maxime
 
 ### Emails
