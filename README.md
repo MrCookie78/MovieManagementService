@@ -29,7 +29,7 @@ Similarly, each actor present in the services will include the following informa
 
 The wsdl file of the WS service is available at the following address : [wsdl file](https://github.com/MrCookie78/MovieManagementService/blob/main/MovieManagementWS/movie.managementWS.web/WebContent/wsdl/moviemanagement.wsdl)
 
-The Javadoc of the Restful service and the WS service are available at the following address : [javadoc_folder](https://github.com/MrCookie78/MovieManagementService/tree/main/Javadoc)
+The Javadoc of the Restful service and the WS service are available at the following address : [javadoc folder](https://github.com/MrCookie78/MovieManagementService/tree/main/Javadoc)
 
 ## Clients' description
 The different clients of the two services created are presented in the form of a graphical application, where the user can navigate between different windows to perform actions on the services.
