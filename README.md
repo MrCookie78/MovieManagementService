@@ -57,3 +57,6 @@ Finally, you can get the information from a movie. To do this, you must enter th
 The movie information will be displayed in the text field. The information displayed is the title, the release date and the actors. The rank of the movie is only available through the REST service.
 ![add_informations](https://github.com/MrCookie78/MovieManagementService/blob/main/demonstration_images/add_informations.png)
 
+## Exercice Module Github
+
+L'exercice consistait en la création d'une branche sur GitHub
